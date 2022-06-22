@@ -39,6 +39,11 @@ The following projects are officially supported by Rubrik
     <td align="center"><img src="assets/snow.png" width=200 height=200><BR>Rubrik Security Cloud Service Now Integration<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
     <td align="center"><img src="assets/vra.png" width=200 height=200><BR>Rubrik Security Cloud vRA/vRO Plugin<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
   </tr>
+  <tr>
+    <td align="center"><img src="assets/splunk.png" width=200 height=200><BR>Rubrik Security Cloud Splunk Module<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+    <td align="center"><img src="assets/vcd.png" width=200 height=200><BR>Rubrik Security Cloud vCD Plugin<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+    <td align="center"></td>
+  </tr>
 </table>
 
 ### Community Supported
@@ -57,6 +62,21 @@ The following projects are community supported
     <td align="center"><img src="assets/terraform.png" width=200 height=200><BR>Rubrik CDM Terraform Plugin<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
     <td align="center"><img src="assets/snow.png" width=200 height=200><BR>Rubrik CDM Service Now Integration<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
     <td align="center"><img src="assets/vra.png" width=200 height=200><BR>Rubrik CDM vRA/vRO Plugin<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/splunk.png" width=200 height=200><BR>Rubrik CDM Splunk Module<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+    <td align="center"><img src="assets/ansible.png" width=200 height=200><BR>Rubrik CDM Ansible Module<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+    <td align="center"><img src="assets/cloudforms.png" width=200 height=200><BR>Rubrik CDM RedHat CloudForms integration<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/poshbot.png" width=200 height=200><BR>Rubrik Module for PoshBot<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+    <td align="center"><img src="assets/vrli.png" width=200 height=200><BR>Rubrik vRealize Log Insight plugin<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+    <td align="center"><img src="assets/prometheus.png" width=200 height=200><BR>Rubrik CDM Prometheus integration<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+  </tr>
+    <tr>
+    <td align="center"><img src="assets/errbot.png" width=200 height=200><BR>Rubrik Plugin for Errbot<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr><td colspan=3 align=center>Community Supported Use-Cases</td></tr>
   <tr>
