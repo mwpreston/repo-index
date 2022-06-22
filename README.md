@@ -38,7 +38,7 @@ The following projects are officially supported by Rubrik
   </tr>
   <tr>
     <td align="center"><img src="assets/terraform.png" width=300 height=300><BR>Rubrik Security Cloud Terraform Plugin<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/snow.jpg" width=300 height=300><BR>Rubrik Security Cloud Service Now Integration<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+    <td align="center"><img src="assets/snow.png" width=300 height=300><BR>Rubrik Security Cloud Service Now Integration<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
     <td align="center"><img src="assets/vra.png" width=300 height=300><BR>Rubrik Security Cloud vRA/vRO Plugin<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
   </tr>
 </table>
