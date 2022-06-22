@@ -28,9 +28,9 @@ The following projects are officially supported by Rubrik
 
 <table align="center">
   <tr>
-    <td align="center"><img src="assets/powershell.png" width=300 height=300><BR>Rubrik Security Cloud Powershell SDK<br>Code | Documentation | Quickstart</td>
-    <td align="center"><img src="assets/python.png" width=300 height=300><BR>Rubrik Security Cloud Python SDK<br>Code | Documentation | Quickstart</td>
-    <td align="center"><img src="assets/go.png" width=300 height=300><BR>Rubrik Security Cloud GO SDK<br>Code | Documentation | Quickstart</td>
+    <td align="center"><img src="assets/powershell.png" width=300 height=300><BR>Rubrik Security Cloud Powershell SDK<br><BR>Code | Documentation | Quickstart</td>
+    <td align="center"><img src="assets/python.png" width=300 height=300><BR>Rubrik Security Cloud Python SDK<br><BR>Code | Documentation | Quickstart</td>
+    <td align="center"><img src="assets/go.png" width=300 height=300><BR>Rubrik Security Cloud GO SDK<br><BR>[Code](https://www.google.ca) | Documentation | Quickstart</td>
   </tr>
   <tr>
     <td align="center"><img src="assets/PowerShell_5.0_icon.png"><BR>Rubrik Security Cloud Terraform PluginK<br>Code | Documentation | Quickstart</td>
