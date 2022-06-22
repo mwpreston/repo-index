@@ -27,7 +27,7 @@ The `README.md` of each repository should designate the project type.
 The following projects are officially supported by Rubrik
 
   <table>
-    <tr><td colspan="3">Rubrik Supported Software Development Kits</td></tr>
+    <tr><td align="center" colspan="3"><b>Rubrik Supported Software Development Kits</b></td></tr>
     <tr>
       <td align="center" width="33%"><img src="assets/powershell.png" width=150 height=150></td>
       <td align="center" width="33%"><img src="assets/python.png" width=150 height=150></td>
@@ -43,23 +43,37 @@ The following projects are officially supported by Rubrik
       <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
       <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
     </tr>
-  </table>
-
-
-
-
-  <table>
-  <tr><td colspan=3 align=center><B>Rubrik Supported Tooling Integrations</B></td></tr>
-  <tr>
-    <td align="center"><img src="assets/terraform.png" width=200 height=200><BR>Rubrik Security Cloud Terraform Plugin<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/snow.png" width=200 height=200><BR>Rubrik Security Cloud Service Now Integration<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/vra.png" width=200 height=200><BR>Rubrik Security Cloud vRA/vRO Plugin<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/splunk.png" width=200 height=200><BR>Rubrik Security Cloud Splunk Module<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/vcd.png" width=200 height=200><BR>Rubrik Security Cloud vCD Plugin<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"></td>
-  </tr>
+    <tr><td colspan=3 align=center><B>Rubrik Supported Tooling Integrations</B></td></tr>
+    <tr>
+      <td align="center" width="33%"><img src="assets/terraform.png" width=150 height=150></td>
+      <td align="center" width="33%"><img src="assets/snow.png" width=150 height=150></td>
+      <td align="center" width="33%"><img src="assets/vra.png" width=150 height=150></td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">Rubrik Security Cloud Terraform Plugin</td>
+      <td align="center" width="33%">Rubrik Security Cloud Service Now Integration</td>
+      <td align="center" width="33%">Rubrik Security Cloud vRA/vRO Plugin</td>
+    </tr>
+    <tr>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+    </tr>
+    <tr>
+      <td align="center" width="33%"><img src="assets/splunk.png" width=150 height=150></td>
+      <td align="center" width="33%"><img src="assets/vcd.png" width=150 height=150></td>
+      <td align="center" width="33%"></td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">Rubrik Security Cloud Splunk Module</td>
+      <td align="center" width="33%">Rubrik Security vCD Plugin</td>
+      <td align="center" width="33%"></td>
+    </tr>
+    <tr>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"></td>
+    </tr>
 </table>
 
 ### Community Supported
