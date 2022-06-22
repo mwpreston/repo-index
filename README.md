@@ -26,7 +26,7 @@ The `README.md` of each repository should designate the project type.
 
 The following projects are officially supported by Rubrik
 
-<table align="center"><tr><td><img src="assets/PowerShell_5.0_icon.png"><BR>Rubrik Security Cloud Powershell SDK<br>Code | Documentation | Quickstart</td><td><img src="assets/PowerShell_5.0_icon.png"></td><td><img src="assets/PowerShell_5.0_icon.png"></td></tr><tr><td><img src="assets/PowerShell_5.0_icon.png"></td><td><img src="assets/PowerShell_5.0_icon.png"></td><td><img src="assets/PowerShell_5.0_icon.png"></td></tr></table>
+<table align="center"><tr><td align="center"><img src="assets/PowerShell_5.0_icon.png"><BR>Rubrik Security Cloud Powershell SDK<br>Code | Documentation | Quickstart</td><td><img src="assets/PowerShell_5.0_icon.png"></td><td><img src="assets/PowerShell_5.0_icon.png"></td></tr><tr><td><img src="assets/PowerShell_5.0_icon.png"></td><td><img src="assets/PowerShell_5.0_icon.png"></td><td><img src="assets/PowerShell_5.0_icon.png"></td></tr></table>
 
 ## Contributing
 
