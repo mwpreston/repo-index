@@ -27,17 +27,13 @@ The `README.md` of each repository should designate the project type.
 The following projects are officially supported by Rubrik
 
 <table align="center">
-  <tr><td colspan=3><center>Rubrik Supported Software Development Kits</center></td></tr>
+  <tr><td colspan=3 align=center>Rubrik Supported Software Development Kits</td></tr>
   <tr>
-    <td align="center">
-      <img src="assets/powershell.png" width=200 height=200><BR>
-      Rubrik Security Cloud Powershell SDK<br><BR>
-      <a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a>
-    </td>
+    <td align="center"><img src="assets/powershell.png" width=200 height=200><BR>Rubrik Security Cloud Powershell SDK<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
     <td align="center"><img src="assets/python.png" width=200 height=200><BR>Rubrik Security Cloud Python SDK<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
     <td align="center"><img src="assets/go.png" width=200 height=200><BR>Rubrik Security Cloud GO SDK<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
   </tr>
-  <tr><td colspan=3><center>Rubrik Supported Tooling Integrations</center></td></tr>
+  <tr><td colspan=3 align=center><Rubrik Supported Tooling Integrations</td></tr>
   <tr>
     <td align="center"><img src="assets/terraform.png" width=200 height=200><BR>Rubrik Security Cloud Terraform Plugin<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
     <td align="center"><img src="assets/snow.png" width=200 height=200><BR>Rubrik Security Cloud Service Now Integration<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
@@ -50,19 +46,19 @@ The following projects are officially supported by Rubrik
 The following projects are community supported
 
 <table align="center">
-  <tr><td colspan=3><center>Community Supported Software Development Kits</center></td></tr>
+  <tr><td colspan=3 align=center>Community Supported Software Development Kits</td></tr>
   <tr>
     <td align="center"><img src="assets/powershell.png" width=200 height=200><BR>Rubrik CDM Powershell SDK<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
     <td align="center"><img src="assets/python.png" width=200 height=200><BR>Rubrik CDM Python SDK<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
     <td align="center"><img src="assets/go.png" width=200 height=200><BR>Rubrik CDM GO SDK<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
   </tr>
-      <tr><td colspan=3><center>Community Supported Tooling Integrations</td></tr>
+      <tr><td colspan=3 align=center>Community Supported Tooling Integrations</td></tr>
   <tr>
     <td align="center"><img src="assets/terraform.png" width=200 height=200><BR>Rubrik CDM Terraform Plugin<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
     <td align="center"><img src="assets/snow.png" width=200 height=200><BR>Rubrik CDM Service Now Integration<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
     <td align="center"><img src="assets/vra.png" width=200 height=200><BR>Rubrik CDM vRA/vRO Plugin<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
   </tr>
-  <tr><td colspan=3><center>Community Supported Use-Cases</td></tr>
+  <tr><td colspan=3 align=center>Community Supported Use-Cases</td></tr>
   <tr>
     <td align="center"><img src="assets/terraform.png" width=200 height=200><BR>Rubrik CDM Terraform Plugin<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
     <td align="center"><img src="assets/snow.png" width=200 height=200><BR>Rubrik CDM Service Now Integration<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
