@@ -31,51 +31,30 @@ The following projects are officially supported by Rubrik
   <tr>
     <td align="center">
       <table>
-        <tr>
-          <td>
-            <img src="assets/powershell.png" width=200 height=200>
-          </td>
-          <td>
-            Rubrik Security Cloud Powershell SDK
-          </td>
-          <td>
-            <a href="">Code</a> | <a href="">Documentation</a> |   <a href="">Quickstart</a>
-          </td>
-        </tr>
+        <tr><td><img src="assets/powershell.png" width=200 height=200></td></tr>
+        <tr><td>Rubrik Security Cloud Powershell SDK</td></tr>
+        <tr><td><a href="">Code</a> | <a href="">Documentation</a> |   <a href="">Quickstart</a></td></tr>
       </table>
     </td>
     <td align="center">
       <table>
-        <tr>
-          <td>
-            <img src="assets/python.png" width=200 height=200>
-          </td>
-          <td>
-            Rubrik Security Cloud Python SDK
-          </td>
-          <td>
-            <a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a>
-          </td>
-        </tr>
+        <tr><td><img src="assets/python.png" width=200 height=200></td></tr>
+        <tr><td>Rubrik Security Cloud Python SDK</td></tr>
+        <tr><td><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td></tr>
       </table>
     </td>
     <td align="center">
       <table>
-        <tr>
-          <td>
-            <img src="assets/go.png" width=200 height=200>
-          </td>
-          <td>
-            Rubrik Security Cloud GO SDK
-          </td>
-          <td>
-            <a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a>
-          </td>
-        </tr>
+        <tr><td><img src="assets/go.png" width=200 height=200></td></tr>
+        <tr><td>Rubrik Security Cloud GO SDK</td></tr>
+        <tr><td><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td></tr>
       </table>
     </td>
   </tr>
   </table>
+
+
+  
   <table>
   <tr><td colspan=3 align=center><B>Rubrik Supported Tooling Integrations</B></td></tr>
   <tr>
