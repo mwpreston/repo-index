@@ -3,23 +3,22 @@
 # Rubrik API Integrations for Every Use Case
 Integrating Rubrik into your enterprise tools and workflows has never been easier. 
 
-## Communicating
-
-The [communication](https://github.com/rubrikinc/welcome-to-rubrik-build/blob/master/community/) page lists communication channels like chat, issues, mailing lists, conferences, etc.
-
 ## Project Types
 
-Build has three types of project:
+Rubrik has three different types of projects centering around API consumption:
 
-* **Community Supported** - a project that is owned and maintained by the Build community
+* **SDKs** - SDKs allow the creation of applications in a specific programming language
+* **Tooling Integrations** - Tooling Integrations seamlessly integrate with Rubrik to make testing, development or monitoring tasks easier and more efficient
+* **Use Cases** - Use Cases are automated workflows that can be leveraged in your envionment to achieve a very specific goal
+
+## Support
+Depending on the SDK, Integration, or Use Case one of the following support models are applied:
+
 * **Rubrik Supported** - a project that is owned and maintained by Rubrik while accepting contributions from the community
+* **Community Supported** - a project that is owned and maintained by the Build community
 * **Partner Supported** - a project that is owned and maintained by a Partner and Rubrik while accepting contributions from the community
 
 The `README.md` of each repository should designate the project type.
-
-## Learn to Build
-
-Links in [Learning Resources](/contributors/learn/README.md) lead to many relevant technical topics.
 
 ## Contribute
 
