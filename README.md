@@ -20,7 +20,15 @@ Depending on the SDK, Integration, or Use Case one of the following support mode
 
 The `README.md` of each repository should designate the project type.
 
-## Contribute
+## Project Listing
+
+### Rubrik Supported
+
+The following projects are officially supported by Rubrik
+
+<table><tr><td>SDK1</td><td>SDK2</td><td>SDK3</td></tr><tr><td>Integration1</td><td>Integration2</td><td>splunk</td></tr></table>
+
+## Contributing
 
 A first step to contributing is to pick an existing project or to submit an idea for a new project.
 
