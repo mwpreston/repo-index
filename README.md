@@ -51,18 +51,18 @@ The following projects are community supported
 <table align="center">
   <tr>
     <td align="center">
-      <img src="assets/powershell.png" width=300 height=300><BR>
+      <img src="assets/powershell.png" width=200 height=200><BR>
       Rubrik CDM Powershell SDK<br><BR>
       <a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a>
     </td>
-    <td align="center"><img src="assets/python.png" width=300 height=300><BR>Rubrik CDM Python SDK<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/go.png" width=300 height=300><BR>Rubrik CDM GO SDK<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+    <td align="center"><img src="assets/python.png" width=200 height=200><BR>Rubrik CDM Python SDK<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+    <td align="center"><img src="assets/go.png" width=200 height=200><BR>Rubrik CDM GO SDK<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
   </tr>
       <tr><td colspan=3></td></tr>
   <tr>
-    <td align="center"><img src="assets/terraform.png" width=300 height=300><BR>Rubrik CDM Terraform Plugin<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/snow.png" width=300 height=300><BR>Rubrik CDM Service Now Integration<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/vra.png" width=300 height=300><BR>Rubrik CDM vRA/vRO Plugin<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+    <td align="center"><img src="assets/terraform.png" width=200 height=200><BR>Rubrik CDM Terraform Plugin<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+    <td align="center"><img src="assets/snow.png" width=200 height=200><BR>Rubrik CDM Service Now Integration<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+    <td align="center"><img src="assets/vra.png" width=200 height=200><BR>Rubrik CDM vRA/vRO Plugin<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
   </tr>
 </table>
       
