@@ -28,14 +28,14 @@ The following projects are officially supported by Rubrik
 
 <table align="center">
   <tr>
-    <td align="center"><img src="assets/PowerShell_5.0_icon.png"><BR>Rubrik Security Cloud Powershell SDK<br>Code | Documentation | Quickstart</td>
-    <td align="center"><img src="assets/PowerShell_5.0_icon.png"><BR>Rubrik Security Cloud Powershell SDK<br>Code | Documentation | Quickstart</td>
-    <td align="center"><img src="assets/PowerShell_5.0_icon.png"><BR>Rubrik Security Cloud Powershell SDK<br>Code | Documentation | Quickstart</td>
+    <td align="center"><img src="assets/powershell.png"><BR>Rubrik Security Cloud Powershell SDK<br>Code | Documentation | Quickstart</td>
+    <td align="center"><img src="assets/python.png"><BR>Rubrik Security Cloud Python SDK<br>Code | Documentation | Quickstart</td>
+    <td align="center"><img src="assets/go.png"><BR>Rubrik Security Cloud GO SDK<br>Code | Documentation | Quickstart</td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/PowerShell_5.0_icon.png"><BR>Rubrik Security Cloud Powershell SDK<br>Code | Documentation | Quickstart</td>
-    <td align="center"><img src="assets/PowerShell_5.0_icon.png"><BR>Rubrik Security Cloud Powershell SDK<br>Code | Documentation | Quickstart</td>
-    <td align="center"><img src="assets/PowerShell_5.0_icon.png"><BR>Rubrik Security Cloud Powershell SDK<br>Code | Documentation | Quickstart</td>
+    <td align="center"><img src="assets/PowerShell_5.0_icon.png"><BR>Rubrik Security Cloud Terraform PluginK<br>Code | Documentation | Quickstart</td>
+    <td align="center"><img src="assets/PowerShell_5.0_icon.png"><BR>Rubrik Security Cloud Service Now Integration<br>Code | Documentation | Quickstart</td>
+    <td align="center"><img src="assets/PowerShell_5.0_icon.png"><BR>Rubrik Security Cloud vRA/vRO Plugin<br>Code | Documentation | Quickstart</td>
   </tr>
 </table>
 
