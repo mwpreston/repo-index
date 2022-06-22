@@ -27,7 +27,7 @@ The `README.md` of each repository should designate the project type.
 The following projects are officially supported by Rubrik
 
 <table align="center">
-  <tr><td colspan=3 align=center>Rubrik Supported Software Development Kits</td></tr>
+  <tr><td colspan=3 align=center><B>Rubrik Supported Software Development Kits</b></td></tr>
   <tr>
     <td align="center"><img src="assets/powershell.png" width=200 height=200><BR>Rubrik Security Cloud Powershell SDK<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
     <td align="center"><img src="assets/python.png" width=200 height=200><BR>Rubrik Security Cloud Python SDK<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
