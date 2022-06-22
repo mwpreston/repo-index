@@ -29,22 +29,22 @@ The following projects are officially supported by Rubrik
 <table align="center">
   <tr><td align=center><B>Rubrik Supported Software Development Kits</b></td></tr>
   <tr>
-    <td align="center">
+    <td align="center" width=100%>
       <table>
         <tr>
-          <td><img src="assets/powershell.png" width=200 height=200></td>
-          <td><img src="assets/python.png" width=200 height=200></td>
-          <td><img src="assets/go.png" width=200 height=200></td>
+          <td align="center" width="33%"><img src="assets/powershell.png" width=200 height=200></td>
+          <td align="center" width="33%"><img src="assets/python.png" width=200 height=200></td>
+          <td align="center" width="33%"><img src="assets/go.png" width=200 height=200></td>
         </tr>
         <tr>
-          <td>Rubrik Security Cloud Powershell SDK</td>
-          <td>Rubrik Security Cloud Python SDK</td>
-          <td>Rubrik Security Cloud GO SDK</td>
+          <td align="center" width="33%">Rubrik Security Cloud Powershell SDK</td>
+          <td align="center" width="33%">Rubrik Security Cloud Python SDK</td>
+          <td align="center" width="33%">Rubrik Security Cloud GO SDK</td>
         </tr>
         <tr>
-          <td><a href="">Code</a> | <a href="">Documentation</a> |   <a href="">Quickstart</a></td>
-          <td><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-          <td><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+          <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> |   <a href="">Quickstart</a></td>
+          <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+          <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
         </tr>
       </table>
     </td>
