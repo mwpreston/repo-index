@@ -26,30 +26,24 @@ The `README.md` of each repository should designate the project type.
 
 The following projects are officially supported by Rubrik
 
-<table align="center">
-  <tr><td align=center><B>Rubrik Supported Software Development Kits</b></td></tr>
-  <tr>
-    <td align="center">
-      <table>
-        <tr>
-          <td align="center" width="33%"><img src="assets/powershell.png" width=150 height=150></td>
-          <td align="center" width="33%"><img src="assets/python.png" width=150 height=150></td>
-          <td align="center" width="33%"><img src="assets/go.png" width=150 height=150></td>
-        </tr>
-        <tr>
-          <td align="center" width="33%">Rubrik Security Cloud Powershell SDK</td>
-          <td align="center" width="33%">Rubrik Security Cloud Python SDK</td>
-          <td align="center" width="33%">Rubrik Security Cloud GO SDK</td>
-        </tr>
-        <tr>
-          <td align="center" width="33%"><font size="8"><a href="">Code</a> | <a href="">Documentation</a> |   <a href="">Quickstart</a></font></td>
-          <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-          <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+  <table>
+    <tr>
+      <td align="center" width="33%"><img src="assets/powershell.png" width=150 height=150></td>
+      <td align="center" width="33%"><img src="assets/python.png" width=150 height=150></td>
+      <td align="center" width="33%"><img src="assets/go.png" width=150 height=150></td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">Rubrik Security Cloud Powershell SDK</td>
+      <td align="center" width="33%">Rubrik Security Cloud Python SDK</td>
+      <td align="center" width="33%">Rubrik Security Cloud GO SDK</td>
+    </tr>
+    <tr>
+      <td align="center" width="33%"><font size="8"><a href="">Code</a> | <a href="">Documentation</a> |   <a href="">Quickstart</a></font></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+    </tr>
   </table>
+
 
 
 
