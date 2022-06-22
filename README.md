@@ -29,7 +29,7 @@ The following projects are officially supported by Rubrik
 <table align="center">
   <tr>
     <td align="center">
-      <img src="assets/powershell.png" width=300 height=300><BR>
+      <img src="assets/powershell.png" width=200 height=200><BR>
       Rubrik Security Cloud Powershell SDK<br><BR>
       <a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a>
     </td>
