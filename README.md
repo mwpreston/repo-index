@@ -33,7 +33,7 @@ The following projects are officially supported by Rubrik
       Rubrik Security Cloud Powershell SDK<br><BR>
       <a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a>
     </td>
-    <td align="center"><img src="assets/python.png" width=300 height=300><BR>Rubrik Security Cloud Python SDK<br><BR><<a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+    <td align="center"><img src="assets/python.png" width=300 height=300><BR>Rubrik Security Cloud Python SDK<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
     <td align="center"><img src="assets/go.png" width=300 height=300><BR>Rubrik Security Cloud GO SDK<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
   </tr>
   <tr>
