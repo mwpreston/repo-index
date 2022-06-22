@@ -26,7 +26,7 @@ The `README.md` of each repository should designate the project type.
 
 The following projects are officially supported by Rubrik
 
-<table align="center">
+<table align="center" width="80%">
   <tr><td align=center><B>Rubrik Supported Software Development Kits</b></td></tr>
   <tr>
     <td align="center" width=80%>
