@@ -29,9 +29,9 @@ The following projects are officially supported by Rubrik
 <table align="center">
   <tr><td colspan=3 align=center><B>Rubrik Supported Software Development Kits</b></td></tr>
   <tr>
-    <td align="center"><img src="assets/powershell.png" width=200 height=200><BR>Rubrik Security Cloud Powershell SDK<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/python.png" width=200 height=200><BR>Rubrik Security Cloud Python SDK<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/go.png" width=200 height=200><BR>Rubrik Security Cloud GO SDK<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+    <td align="center"><table><tr><td><img src="assets/powershell.png" width=200 height=200></td><td>Rubrik Security Cloud Powershell SDK</td><td><a href="">Code</a> | <a href="">Documentation</a> |   <a href="">Quickstart</a></td></tr></table></td>
+    <td align="center"><table><tr><td><img src="assets/python.png" width=200 height=200></td><td>Rubrik Security Cloud Python SDK</td><td><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td></tr></table></td>
+    <td align="center"><table><tr><td><img src="assets/go.png" width=200 height=200></td><td>Rubrik Security Cloud GO SDK</td><td><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td></tr></table></td>
   </tr>
   <tr><td colspan=3 align=center><B>Rubrik Supported Tooling Integrations</B></td></tr>
   <tr>
