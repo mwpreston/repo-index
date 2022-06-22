@@ -29,7 +29,7 @@ The following projects are officially supported by Rubrik
 <table align="center">
   <tr><td align=center><B>Rubrik Supported Software Development Kits</b></td></tr>
   <tr>
-    <td align="center" width=100%>
+    <td align="center" width=80%>
       <table>
         <tr>
           <td align="center" width="33%"><img src="assets/powershell.png" width=200 height=200></td>
