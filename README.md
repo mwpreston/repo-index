@@ -1,15 +1,15 @@
 ![alt text](assets/1200px-Rubrik_Logo.svg.png)
 
 # Rubrik API Integrations for Every Use Case
-Integrating Rubrik into your enterprise tools and workflows has never been easier. 
+Integrating Rubrik into your enterprise tools and workflows has never been easier. Use our Rubrik and Community supported SDKs, Integrations, and Use-Cases to build on top of and integrate Rubrik into your existing or new automated data management workflows.
 
 ## Project Types
 
 Rubrik has three different types of projects centering around API consumption:
 
-* **SDKs** - SDKs allow the creation of applications in a specific programming language
-* **Tooling Integrations** - Tooling Integrations seamlessly integrate with Rubrik to make testing, development or monitoring tasks easier and more efficient
-* **Use Cases** - Use Cases are automated workflows that can be leveraged in your envionment to achieve a very specific goal
+* **SDKs** - SDKs allow the creation of applications in a specific programming language. These are great if you understand a certain language and want to hit the ground running with consuming Rubrik APIs.
+* **Tooling Integrations** - Tooling Integrations seamlessly integrate with Rubrik to make testing, development or monitoring tasks easier and more efficient. These are great if you are looking to integrate Rubrik workflows into popular automation toolsets such as Ansible and Terraform.
+* **Use Cases** - Use Cases are automated workflows that can be leveraged in your environment to achieve a very specific goal. All use-cases come with easy to follow, step by step quickstart guides.
 
 ## Support
 Depending on the SDK, Integration, or Use Case one of the following support models are applied:
