@@ -42,7 +42,7 @@ The following projects are officially supported by Rubrik
           <td align="center" width="33%">Rubrik Security Cloud GO SDK</td>
         </tr>
         <tr>
-          <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> |   <a href="">Quickstart</a></td>
+          <td align="center" width="33%"><font size="8"><a href="">Code</a> | <a href="">Documentation</a> |   <a href="">Quickstart</a></font></td>
           <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
           <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
         </tr>
