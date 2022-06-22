@@ -33,14 +33,14 @@ The following projects are officially supported by Rubrik
       Rubrik Security Cloud Powershell SDK<br><BR>
       <a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a>
     </td>
-    <td align="center"><img src="assets/python.png" width=300 height=300><BR>Rubrik Security Cloud Python SDK<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/go.png" width=300 height=300><BR>Rubrik Security Cloud GO SDK<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+    <td align="center"><img src="assets/python.png" width=200 height=200><BR>Rubrik Security Cloud Python SDK<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+    <td align="center"><img src="assets/go.png" width=200 height=200><BR>Rubrik Security Cloud GO SDK<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
   </tr>
       <tr><td colspan=3></td></tr>
   <tr>
-    <td align="center"><img src="assets/terraform.png" width=300 height=300><BR>Rubrik Security Cloud Terraform Plugin<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/snow.png" width=300 height=300><BR>Rubrik Security Cloud Service Now Integration<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/vra.png" width=300 height=300><BR>Rubrik Security Cloud vRA/vRO Plugin<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+    <td align="center"><img src="assets/terraform.png" width=200 height=200><BR>Rubrik Security Cloud Terraform Plugin<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+    <td align="center"><img src="assets/snow.png" width=200 height=200><BR>Rubrik Security Cloud Service Now Integration<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+    <td align="center"><img src="assets/vra.png" width=200 height=200><BR>Rubrik Security Cloud vRA/vRO Plugin<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
   </tr>
 </table>
 
