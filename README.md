@@ -39,7 +39,7 @@ The following projects are officially supported by Rubrik
     </tr>
     <tr>
       <td align="center" width="33%">Coming Soon</td>
-      <td align="center" width="33%"><a href="https://github.com/rubrikinc/rubrik-polaris-sdk-for-python" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/rubrik-polaris-sdk-for-python/blob/beta/sample/polaris_client.py">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/rubrik-polaris-sdk-for-python" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/rubrik-polaris-sdk-for-python/blob/beta/sample/polaris_client.py" target="_blank">Quickstart</a></td>
       <td align="center" width="33%">Coming Soon</td>
     </tr>
     <tr><td colspan=3 align="center" valign="middle" ><B><h2>Rubrik Supported Tooling Integrations</h2></B></td></tr>
