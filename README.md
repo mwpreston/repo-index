@@ -22,17 +22,12 @@ The `README.md` of each repository should designate the project type.
 
 ## Project Listing
 
-<style type="text/css" rel="stylesheet">
-  .logocell {
-    align: center;
-  }
-</style>
 ### Rubrik Supported
 
 The following projects are officially supported by Rubrik
-<div class="logocell">
-  <table>
-    <tr><td class="logocell" colspan="3"><b>Rubrik Supported Software Development Kits</b></td></tr>
+
+  <table style="border: 5px solid black;">
+    <tr><td colspan="3"><b>Rubrik Supported Software Development Kits</b></td></tr>
     <tr>
       <td align="center" width="33%"><img src="assets/powershell.png" width=150 height=150></td>
       <td align="center" width="33%"><img src="assets/python.png" width=150 height=150></td>
@@ -80,7 +75,7 @@ The following projects are officially supported by Rubrik
       <td align="center" width="33%"></td>
     </tr>
 </table>
-</div>
+
 
 ### Community Supported
 
