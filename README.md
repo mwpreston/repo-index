@@ -45,9 +45,9 @@ The following projects are officially supported by Rubrik
     </tr>
     <tr><td colspan=3 align="center"><B>Rubrik Supported Tooling Integrations</B></td></tr>
     <tr>
-      <td align="center" width="33%"><img src="assets/terraform.png" width=150 height=150></td>
-      <td align="center" width="33%"><img src="assets/snow.png" width=150 height=150></td>
-      <td align="center" width="33%"><img src="assets/vra.png" width=150 height=150></td>
+      <td align="center" width="33%"><img src="assets/terraform.png" ></td>
+      <td align="center" width="33%"><img src="assets/snow.png" ></td>
+      <td align="center" width="33%"><img src="assets/vra.png" ></td>
     </tr>
     <tr>
       <td align="center" valign="top" width="33%">Rubrik Security Cloud Terraform Plugin</td>
@@ -60,8 +60,8 @@ The following projects are officially supported by Rubrik
       <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
     </tr>
     <tr>
-      <td align="center" width="33%"><img src="assets/splunk.png" width=150 height=150></td>
-      <td align="center" width="33%"><img src="assets/vcd.png" width=150 height=150></td>
+      <td align="center" width="33%"><img src="assets/splunk.png" ></td>
+      <td align="center" width="33%"><img src="assets/vcd.png" ></td>
       <td align="center" width="33%"></td>
     </tr>
     <tr>
@@ -85,9 +85,9 @@ The following projects are community supported
 <table align="center">
   <tr><td colspan=3 align="center" ><B>Community Supported Software Development Kits</B></td></tr>
   <tr>
-    <td align="center" width="33%"><img src="assets/powershell.png" width=150 height=150></td>
-    <td align="center" width="33%"><img src="assets/python.png" width=150 height=150><BR></td>
-    <td align="center" width="33%"><img src="assets/go.png" width=150 height=150><BR></td>
+    <td align="center" width="33%"><img src="assets/powershell.png" ></td>
+    <td align="center" width="33%"><img src="assets/python.png" ><BR></td>
+    <td align="center" width="33%"><img src="assets/go.png" ><BR></td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">Rubrik CDM Powershell SDK</td>
@@ -101,9 +101,9 @@ The following projects are community supported
   </tr>
       <tr><td colspan=3 align="center"><B>Community Supported Tooling Integrations</B></td></tr>
   <tr>
-    <td align="center" width="33%"><img src="assets/terraform.png" width=150 height=150></td>
-    <td align="center" width="33%"><img src="assets/snow.png" width=150 height=150></td>
-    <td align="center" width="33%"><img src="assets/vra.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/terraform.png" ></td>
+    <td align="center" width="33%"><img src="assets/snow.png" ></td>
+    <td align="center" width="33%"><img src="assets/vra.png" ></td>
   </tr>
     <tr>
     <td align="center" valign="top" width="33%">Rubrik CDM Terraform Plugin</td>
@@ -116,9 +116,9 @@ The following projects are community supported
       <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
   </tr>
   <tr>
-    <td align="center" width="33%"><img src="assets/splunk.png" width=150 height=150></td>
-    <td align="center" width="33%"><img src="assets/ansible.png" width=150 height=150></td>
-    <td align="center" width="33%"><img src="assets/cloudforms.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/splunk.png" ></td>
+    <td align="center" width="33%"><img src="assets/ansible.png" ></td>
+    <td align="center" width="33%"><img src="assets/cloudforms.png" ></td>
   </tr>
       <tr>
     <td align="center" valign="top" width="33%">Rubrik CDM Splunk Module</td>
@@ -131,9 +131,9 @@ The following projects are community supported
       <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
   </tr>
   <tr>
-    <td align="center" width="33%"><img src="assets/poshbot.png" width=150 height=150></td>
-    <td align="center" width="33%"><img src="assets/vrli.png" width=150 height=150></td>
-    <td align="center" width="33%"><img src="assets/prometheus.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/poshbot.png" ></td>
+    <td align="center" width="33%"><img src="assets/vrli.png" ></td>
+    <td align="center" width="33%"><img src="assets/prometheus.png" ></td>
   </tr>
       <tr>
     <td align="center" valign="top" width="33%">Rubrik Module for PoshBot</td>
@@ -146,7 +146,7 @@ The following projects are community supported
       <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
   </tr>
     <tr>
-    <td align="center" width="33%"><img src="assets/errbot.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/errbot.png" ></td>
     <td></td>
     <td></td>
   </tr>
@@ -162,9 +162,9 @@ The following projects are community supported
   </tr>
   <tr><td colspan=3 align="center"><B>Community Supported Use-Cases</B></td></tr>
   <tr>
-    <td align="center" width="33%"><img src="assets/slack.png" width=150 height=150></td>
-    <td align="center" width="33%"><img src="assets/vra.png" width=150 height=150></td>
-    <td align="center" width="33%"><img src="assets/powershell.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/slack.png" ></td>
+    <td align="center" width="33%"><img src="assets/vra.png" ></td>
+    <td align="center" width="33%"><img src="assets/powershell.png" ></td>
   </tr>
       <tr>
     <td align="center" valign="top" width="33%">Using Slack to Create Rubrik Security Cloud Accounts</td>
@@ -177,9 +177,9 @@ The following projects are community supported
       <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
   </tr>
   <tr>
-    <td align="center" width="33%"><img src="assets/roxie.png" width=150 height=150></td>
-    <td align="center" width="33%"><img src="assets/terraform.png" width=150 height=150></td>
-    <td align="center" width="33%"><img src="assets/cloudformation.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/roxie.png" ></td>
+    <td align="center" width="33%"><img src="assets/terraform.png" ></td>
+    <td align="center" width="33%"><img src="assets/cloudformation.png" ></td>
   </tr>
       <tr>
     <td align="center" valign="top" width="33%">Roxie, Rubrik's Intelligent Personal Assistant</td>
@@ -192,9 +192,9 @@ The following projects are community supported
       <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
   </tr>
   <tr>
-    <td align="center" width="33%"><img src="assets/cloudformation.png" width=150 height=150></td>
-    <td align="center" width="33%"><img src="assets/cloudformation.png" width=150 height=150></td>
-    <td align="center" width="33%"><img src="assets/secrets.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/cloudformation.png" ></td>
+    <td align="center" width="33%"><img src="assets/cloudformation.png" ></td>
+    <td align="center" width="33%"><img src="assets/secrets.png" ></td>
   </tr>
       <tr>
     <td align="center" valign="top" width="33%">Using AWS CloudFormation to Configure CloudOn</td>
@@ -207,9 +207,9 @@ The following projects are community supported
       <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
   </tr>
   <tr>
-    <td align="center" width="33%"><img src="assets/arm.png" width=150 height=150></td>
-    <td align="center" width="33%"><img src="assets/terraform.png" width=150 height=150></td>
-    <td align="center" width="33%"><img src="assets/terraform.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/arm.png" ></td>
+    <td align="center" width="33%"><img src="assets/terraform.png" ></td>
+    <td align="center" width="33%"><img src="assets/terraform.png" ></td>
   </tr>
       <tr>
     <td align="center" valign="top" width="33%">ARM Template for CloudOut</td>
@@ -222,9 +222,9 @@ The following projects are community supported
       <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
   </tr>
   <tr>
-    <td align="center" width="33%"><img src="assets/ec2.png" width=150 height=150></td>
-    <td align="center" width="33%"><img src="assets/exchange.png" width=150 height=150></td>
-    <td align="center" width="33%"><img src="assets/cloudformation.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/ec2.png" ></td>
+    <td align="center" width="33%"><img src="assets/exchange.png" ></td>
+    <td align="center" width="33%"><img src="assets/cloudformation.png" ></td>
   </tr>
       <tr>
     <td align="center" valign="top" width="33%">Replicate EC2 snapshots to another location</td>
@@ -237,9 +237,9 @@ The following projects are community supported
       <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
   </tr>
   <tr>
-    <td align="center" width="33%"><img src="assets/ansible.png" width=150 height=150></td>
-    <td align="center" width="33%"><img src="assets/ansible.png" width=150 height=150></td>
-    <td align="center" width="33%"><img src="assets/ansible.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/ansible.png" ></td>
+    <td align="center" width="33%"><img src="assets/ansible.png" ></td>
+    <td align="center" width="33%"><img src="assets/ansible.png" ></td>
   </tr>
       <tr>
     <td align="center" valign="top" width="33%">Use Ansible to Configure CloudOut to AWS S3</td>
@@ -252,9 +252,9 @@ The following projects are community supported
       <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
   </tr>
     <tr>
-    <td align="center" width="33%"><img src="assets/ansible.png" width=150 height=150></td>
-    <td align="center" width="33%"><img src="assets/nutanix.png" width=150 height=150></td>
-    <td align="center" width="33%"><img src="assets/asbuilt.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/ansible.png" ></td>
+    <td align="center" width="33%"><img src="assets/nutanix.png" ></td>
+    <td align="center" width="33%"><img src="assets/asbuilt.png" ></td>
   </tr>
       <tr>
     <td align="center" valign="top" width="33%">Use Ansible to Create AWS VM Import Role and Policy</td>
