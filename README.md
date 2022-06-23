@@ -186,9 +186,9 @@ The following projects are community supported
     <td align="center" valign="top" width="33%">Backup Validation with PowerShell</td>
   </tr>
   <tr>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/use-case-polaris-slack" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/use-case-polaris-slack/blob/master/docs/quick-start.md" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/rubrik-blueprints-for-vrealize/tree/master/Provision-and-Protect" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/rubrik-blueprints-for-vrealize/blob/master/Provision-and-Protect/quick-start.md" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/Use-Case-PowerShell-Backup-Validation" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/Use-Case-PowerShell-Backup-Validation/blob/master/docs/quick-start.md" target="_blank">Quickstart</a></td>
   </tr>
   <tr>
     <td align="center" width="33%"><img src="assets/roxie.png" width="150" height="150" ></td>
@@ -201,9 +201,9 @@ The following projects are community supported
     <td align="center" valign="top" width="33%">Using AWS CloudFormation to Configure CloudOut to S3</td>
   </tr>
   <tr>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/use-case-roxie" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/use-case-roxie/blob/master/docs/QUICKSTART.md" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/use-case-terraform-module-for-aws-cloud-cluster" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/use-case-terraform-module-for-aws-cloud-cluster/blob/master/docs/quick-start.md" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/use-case-aws-cloudformation-template-cloudout-s3" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/use-case-aws-cloudformation-template-cloudout-s3/blob/master/docs/quick-start.md" target="_blank">Quickstart</a></td>
   </tr>
   <tr>
     <td align="center" width="33%"><img src="assets/cloudformation.png" width="150" height="150" ></td>
@@ -216,9 +216,9 @@ The following projects are community supported
     <td align="center" valign="top" width="33%">AWS Secrets Manager Key Rotation</td>
   </tr>
   <tr>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/use-case-aws-cloudformation-template-cloudon" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/use-case-aws-cloudformation-template-cloudon/blob/master/docs/quick-start.md" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/use-case-aws-cloudformation-template-cloudcluster" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/use-case-aws-cloudformation-template-cloudcluster/blob/master/docs/quick-start.md" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/use-case-aws-native-secrets-rotation" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/use-case-aws-native-secrets-rotation/blob/master/docs/quick-start.md" target="_blank">Quickstart</a></td>
   </tr>
   <tr>
     <td align="center" width="33%"><img src="assets/arm.png" width="150" height="150" ></td>
@@ -231,9 +231,9 @@ The following projects are community supported
     <td align="center" valign="top" width="33%">Use Terraform to Configure CloudOn to AWS</td>
   </tr>
   <tr>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/use-case-arm-template-cloudout" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/use-case-arm-template-cloudout/blob/master/docs/quick-start.md" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/terraform-aws-s3-rubrik-cloudout" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/terraform-aws-s3-rubrik-cloudout/blob/master/docs/quick-start.md" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/terraform-aws-rubrik-cloudon" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/terraform-aws-rubrik-cloudon/blob/master/docs/quick-start.md" target="_blank">Quickstart</a></td>
   </tr>
   <tr>
     <td align="center" width="33%"><img src="assets/ec2.png" width="150" height="150" ></td>
@@ -246,9 +246,9 @@ The following projects are community supported
     <td align="center" valign="top" width="33%">Use AWS CloudFormation to Configure Cloud-Native Protection</td>
   </tr>
   <tr>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/use-case-aws-native-snapshot-replication/blob/master/docs/quick-start.md" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/use-case-aws-native-snapshot-replication" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/use-case-exchange-dag-awareness/blob/master/docs/QUICKSTART.md" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/use-case-exchange-dag-awareness" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/use-case-aws-cloudformation-templates-native-protection" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/use-case-aws-cloudformation-templates-native-protection/blob/master/docs/quick-start.md" target="_blank">Quickstart</a></td>
   </tr>
   <tr>
     <td align="center" width="33%"><img src="assets/ansible.png" width="150" height="150" ></td>
@@ -261,9 +261,9 @@ The following projects are community supported
     <td align="center" valign="top" width="33%">Use Ansible to Install RBS</td>
   </tr>
   <tr>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/ansible-role-rubrik-cloudon" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/ansible-role-rubrik-cloudon/blob/master/README.md" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/ansible-role-rubrik-cloudon" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/ansible-role-rubrik-cloudon/blob/master/README.md" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/ansible-role-rubrik-connector" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/ansible-role-rubrik-connector/blob/master/README.md" target="_blank">Quickstart</a></td>
   </tr>
     <tr>
     <td align="center" width="33%"><img src="assets/ansible.png" width="150" height="150" ></td>
@@ -276,9 +276,9 @@ The following projects are community supported
     <td align="center" valign="top" width="33%">Rubrik CDM As Built Report</td>
   </tr>
   <tr>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/ansible-role-aws-vmimport-role" target="_blank">Code</a> |  <a href="https://rubrik.gitbook.io/rubrik-modules-for-ansible/" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/use-cases/blob/master/auto-assign-sla-domains-by-prism-categories/README.md" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/use-cases/blob/master/auto-assign-sla-domains-by-prism-categories/docs/quick-start.md" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/AsBuiltReport/AsBuiltReport.Rubrik.CDM" target="_blank">Code</a> |  <a href="https://github.com/AsBuiltReport/AsBuiltReport.Rubrik.CDM#package-module-installation" target="_blank">Quickstart</a></td>
   </tr>
 </table>
       
