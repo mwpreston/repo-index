@@ -43,16 +43,16 @@ The following projects are officially supported by Rubrik
       <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
       <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
     </tr>
-    <tr><td colspan=3><B>Rubrik Supported Tooling Integrations</B></td></tr>
+    <tr><td colspan=3 align="center"><B>Rubrik Supported Tooling Integrations</B></td></tr>
     <tr>
       <td align="center" width="33%"><img src="assets/terraform.png" width=150 height=150></td>
       <td align="center" width="33%"><img src="assets/snow.png" width=150 height=150></td>
       <td align="center" width="33%"><img src="assets/vra.png" width=150 height=150></td>
     </tr>
     <tr>
-      <td align="center" width="33%">Rubrik Security Cloud Terraform Plugin</td>
-      <td align="center" width="33%">Rubrik Security Cloud Service Now Integration</td>
-      <td align="center" width="33%">Rubrik Security Cloud vRA/vRO Plugin</td>
+      <td align="center" valign="top" width="33%">Rubrik Security Cloud Terraform Plugin</td>
+      <td align="center" valign="top" width="33%">Rubrik Security Cloud Service Now Integration</td>
+      <td align="center" valign="top" width="33%">Rubrik Security Cloud vRA/vRO Plugin</td>
     </tr>
     <tr>
       <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
@@ -65,8 +65,8 @@ The following projects are officially supported by Rubrik
       <td align="center" width="33%"></td>
     </tr>
     <tr>
-      <td align="center" width="33%">Rubrik Security Cloud Splunk Module</td>
-      <td align="center" width="33%">Rubrik Security vCD Plugin</td>
+      <td align="center" valign="top" width="33%">Rubrik Security Cloud Splunk Module</td>
+      <td align="center" valign="top" width="33%">Rubrik Security vCD Plugin</td>
       <td align="center" width="33%"></td>
     </tr>
     <tr>
@@ -83,7 +83,7 @@ The following projects are officially supported by Rubrik
 The following projects are community supported
 
 <table align="center">
-  <tr><td colspan=3 align=center>Community Supported Software Development Kits</td></tr>
+  <tr><td colspan=3 >Community Supported Software Development Kits</td></tr>
   <tr>
     <td align="center"><img src="assets/powershell.png" width=200 height=200>Rubrik CDM Powershell SDK<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
     <td align="center"><img src="assets/python.png" width=200 height=200><BR>Rubrik CDM Python SDK<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
