@@ -1,4 +1,4 @@
-![alt text](assets/1150px-Rubrik_Logo.svg.png)
+![alt text](assets/rubrik.png)
 
 # Rubrik API Integrations for Every Use Case
 Integrating Rubrik into your enterprise tools and workflows has never been easier. Use our Rubrik and Community supported SDKs, Integrations, and Use-Cases to build on top of and integrate Rubrik into your existing or new automated data management workflows.
