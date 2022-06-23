@@ -66,7 +66,7 @@ The following projects are officially supported by Rubrik
     </tr>
     <tr>
       <td align="center" valign="top" width="33%">Rubrik Security Cloud Splunk Module</td>
-      <td align="center" valign="top" width="33%">Rubrik Security vCD Plugin</td>
+      <td align="center" valign="top" width="33%">Rubrik Security Cloud vCD Plugin</td>
       <td align="center" width="33%"></td>
     </tr>
     <tr>
