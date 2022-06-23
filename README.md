@@ -1,4 +1,4 @@
-![alt text](assets/1200px-Rubrik_Logo.svg.png)
+![alt text](assets/1150px-Rubrik_Logo.svg.png)
 
 # Rubrik API Integrations for Every Use Case
 Integrating Rubrik into your enterprise tools and workflows has never been easier. Use our Rubrik and Community supported SDKs, Integrations, and Use-Cases to build on top of and integrate Rubrik into your existing or new automated data management workflows.
@@ -83,68 +83,188 @@ The following projects are officially supported by Rubrik
 The following projects are community supported
 
 <table align="center">
-  <tr><td colspan=3 >Community Supported Software Development Kits</td></tr>
+  <tr><td colspan=3 align="center" ><B>Community Supported Software Development Kits</B></td></tr>
   <tr>
-    <td align="center"><img src="assets/powershell.png" width=200 height=200>Rubrik CDM Powershell SDK<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/python.png" width=200 height=200><BR>Rubrik CDM Python SDK<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/go.png" width=200 height=200><BR>Rubrik CDM GO SDK<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-  </tr>
-      <tr><td colspan=3 align=center>Community Supported Tooling Integrations</td></tr>
-  <tr>
-    <td align="center"><img src="assets/terraform.png" width=200 height=200><BR>Rubrik CDM Terraform Plugin<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/snow.png" width=200 height=200><BR>Rubrik CDM Service Now Integration<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/vra.png" width=200 height=200><BR>Rubrik CDM vRA/vRO Plugin<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+    <td align="center" width="33%"><img src="assets/powershell.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/python.png" width=150 height=150><BR></td>
+    <td align="center" width="33%"><img src="assets/go.png" width=150 height=150><BR></td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/splunk.png" width=200 height=200><BR>Rubrik CDM Splunk Module<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/ansible.png" width=200 height=200><BR>Rubrik CDM Ansible Module<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/cloudforms.png" width=200 height=200><BR>Rubrik CDM RedHat CloudForms integration<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+    <td align="center" valign="top" width="33%">Rubrik CDM Powershell SDK</td>
+    <td align="center" valign="top" width="33%">Rubrik CDM Python SDK</td>
+    <td align="center" valign="top" width="33%">Rubrik CDM GO SDK</td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/poshbot.png" width=200 height=200><BR>Rubrik Module for PoshBot<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/vrli.png" width=200 height=200><BR>Rubrik vRealize Log Insight plugin<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/prometheus.png" width=200 height=200><BR>Rubrik CDM Prometheus integration<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+  </tr>
+      <tr><td colspan=3 align="center"><B>Community Supported Tooling Integrations</B></td></tr>
+  <tr>
+    <td align="center" width="33%"><img src="assets/terraform.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/snow.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/vra.png" width=150 height=150></td>
   </tr>
     <tr>
-    <td align="center"><img src="assets/errbot.png" width=200 height=200><BR>Rubrik Plugin for Errbot<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+    <td align="center" valign="top" width="33%">Rubrik CDM Terraform Plugin</td>
+    <td align="center" valign="top" width="33%">Rubrik CDM Service Now Integration</td>
+    <td align="center" valign="top" width="33%">Rubrik CDM vRA/vRO Plugin</td>
+  </tr>
+  <tr>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="assets/splunk.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/ansible.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/cloudforms.png" width=150 height=150></td>
+  </tr>
+      <tr>
+    <td align="center" valign="top" width="33%">Rubrik CDM Splunk Module</td>
+    <td align="center" valign="top" width="33%">Rubrik CDM Ansible Module</td>
+    <td align="center" valign="top" width="33%">Rubrik CDM RedHat CloudForms integration</td>
+  </tr>
+  <tr>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="assets/poshbot.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/vrli.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/prometheus.png" width=150 height=150></td>
+  </tr>
+      <tr>
+    <td align="center" valign="top" width="33%">Rubrik Module for PoshBot</td>
+    <td align="center" valign="top" width="33%">Rubrik vRealize Log Insight plugin</td>
+    <td align="center" valign="top" width="33%">Rubrik CDM Prometheus integration</td>
+  </tr>
+  <tr>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+  </tr>
+    <tr>
+    <td align="center" width="33%"><img src="assets/errbot.png" width=150 height=150></td>
     <td></td>
     <td></td>
   </tr>
-  <tr><td colspan=3 align=center>Community Supported Use-Cases</td></tr>
-  <tr>
-    <td align="center"><img src="assets/slack.png" width=200 height=200><BR>Using Slack to Create Rubrik Security Cloud Accounts<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/vra.png" width=200 height=200><BR>Provision & Protect with vRealize<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/powershell.png" width=200 height=200><BR>Backup Validation with PowerShell<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <tr>
+    <td align="center" valign="top" width="33%">Rubrik Plugin for Errbot</td>
+    <td align="center" valign="top" width="33%"></td>
+    <td align="center" valign="top" width="33%"></td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/roxie.png" width=200 height=200><BR>Roxie, Rubrik's Intelligent Personal Assistant<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/terraform.png" width=200 height=200><BR>Use Terraform to Deploy Cloud Cluster in AWS<br><BR><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/cloudformation.png" width=200 height=200><BR>Using AWS CloudFormation to Configure CloudOut to S3<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"></td>
+      <td align="center" width="33%"></td>
+  </tr>
+  <tr><td colspan=3 align="center"><B>Community Supported Use-Cases</B></td></tr>
+  <tr>
+    <td align="center" width="33%"><img src="assets/slack.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/vra.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/powershell.png" width=150 height=150></td>
+  </tr>
+      <tr>
+    <td align="center" valign="top" width="33%">Using Slack to Create Rubrik Security Cloud Accounts</td>
+    <td align="center" valign="top" width="33%">Provision & Protect with vRealize</td>
+    <td align="center" valign="top" width="33%">Backup Validation with PowerShell</td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/cloudformation.png" width=200 height=200><BR>Using AWS CloudFormation to Configure CloudOn<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/cloudformation.png" width=200 height=200><BR>Using AWS CloudFormation to Deploy Cloud Edition<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/secrets.png" width=200 height=200><BR>AWS Secrets Manager Key Rotation<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/arm.png" width=200 height=200><BR>ARM Template for CloudOut<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/terraform.png" width=200 height=200><BR>Use Terraform to Configure CloudOut to AWS S3<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/terraform.png" width=200 height=200><BR>Use Terraform to Configure CloudOn to AWS<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+    <td align="center" width="33%"><img src="assets/roxie.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/terraform.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/cloudformation.png" width=150 height=150></td>
+  </tr>
+      <tr>
+    <td align="center" valign="top" width="33%">Roxie, Rubrik's Intelligent Personal Assistant</td>
+    <td align="center" valign="top" width="33%">Use Terraform to Deploy Cloud Cluster in AWS</td>
+    <td align="center" valign="top" width="33%">Using AWS CloudFormation to Configure CloudOut to S3</td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/ec2.png" width=200 height=200><BR>Replicate EC2 snapshots to another location<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/exchange.png" width=200 height=200><BR>Exchange DAG Awareness<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/cloudformation.png" width=200 height=200><BR>Use AWS CloudFormation to Configure Cloud-Native Protection<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/ansible.png" width=200 height=200><BR>Use Ansible to Configure CloudOut to AWS S3<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/ansible.png" width=200 height=200><BR>Use Ansible to Configure CloudOn to AWS<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/ansible.png" width=200 height=200><BR>Use Ansible to Install RBS<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+    <td align="center" width="33%"><img src="assets/cloudformation.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/cloudformation.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/secrets.png" width=150 height=150></td>
+  </tr>
+      <tr>
+    <td align="center" valign="top" width="33%">Using AWS CloudFormation to Configure CloudOn</td>
+    <td align="center" valign="top" width="33%">Using AWS CloudFormation to Deploy Cloud Edition</td>
+    <td align="center" valign="top" width="33%">AWS Secrets Manager Key Rotation</td>
+  </tr>
+  <tr>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="assets/arm.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/terraform.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/terraform.png" width=150 height=150></td>
+  </tr>
+      <tr>
+    <td align="center" valign="top" width="33%">ARM Template for CloudOut</td>
+    <td align="center" valign="top" width="33%">Use Terraform to Configure CloudOut to AWS S3</td>
+    <td align="center" valign="top" width="33%">Use Terraform to Configure CloudOn to AWS</td>
+  </tr>
+  <tr>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="assets/ec2.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/exchange.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/cloudformation.png" width=150 height=150></td>
+  </tr>
+      <tr>
+    <td align="center" valign="top" width="33%">Replicate EC2 snapshots to another location</td>
+    <td align="center" valign="top" width="33%">Exchange DAG Awareness</td>
+    <td align="center" valign="top" width="33%">Use AWS CloudFormation to Configure Cloud-Native Protection</td>
+  </tr>
+  <tr>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="assets/ansible.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/ansible.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/ansible.png" width=150 height=150></td>
+  </tr>
+      <tr>
+    <td align="center" valign="top" width="33%">Use Ansible to Configure CloudOut to AWS S3</td>
+    <td align="center" valign="top" width="33%">Use Ansible to Configure CloudOn to AWS</td>
+    <td align="center" valign="top" width="33%">Use Ansible to Install RBS</td>
+  </tr>
+  <tr>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
   </tr>
     <tr>
-    <td align="center"><img src="assets/ansible.png" width=200 height=200><BR>Use Ansible to Create AWS VM Import Role and Policy<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/nutanix.png" width=200 height=200><BR>Assign SLA Domain based off Nutanix Prism Categories<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-    <td align="center"><img src="assets/asbuilt.png" width=200 height=200><BR>Rubrik CDM As Built Report<br><br><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+    <td align="center" width="33%"><img src="assets/ansible.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/nutanix.png" width=150 height=150></td>
+    <td align="center" width="33%"><img src="assets/asbuilt.png" width=150 height=150></td>
+  </tr>
+      <tr>
+    <td align="center" valign="top" width="33%">Use Ansible to Create AWS VM Import Role and Policy</td>
+    <td align="center" valign="top" width="33%">Assign SLA Domain based off Nutanix Prism Categories</td>
+    <td align="center" valign="top" width="33%">Rubrik CDM As Built Report</td>
+  </tr>
+  <tr>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
   </tr>
 </table>
       
