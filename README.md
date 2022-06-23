@@ -25,18 +25,18 @@ The `README.md` of each repository should designate the project type.
 ### Rubrik Supported
 
 The following projects are officially supported by Rubrik
-<div align="center">
+
   <table>
-    <tr><td colspan="3"><b>Rubrik Supported Software Development Kits</b></td></tr>
+    <tr><td align="center" colspan="3"><b>Rubrik Supported Software Development Kits</b></td></tr>
     <tr>
       <td align="center" width="33%"><img src="assets/powershell.png" width=150 height=150></td>
       <td align="center" width="33%"><img src="assets/python.png" width=150 height=150></td>
       <td align="center" width="33%"><img src="assets/go.png" width=150 height=150></td>
     </tr>
     <tr>
-      <td align="center" width="33%">Rubrik Security Cloud Powershell SDK</td>
-      <td align="center" width="33%">Rubrik Security Cloud Python SDK</td>
-      <td align="center" width="33%">Rubrik Security Cloud GO SDK</td>
+      <td align="center" valign="top" width="33%">Rubrik Security Cloud Powershell SDK</td>
+      <td align="center" valign="top" width="33%">Rubrik Security Cloud Python SDK</td>
+      <td align="center" valign="top" width="33%">Rubrik Security Cloud GO SDK</td>
     </tr>
     <tr>
       <td align="center" width="33%"><font size="8"><a href="">Code</a> | <a href="">Documentation</a> |   <a href="">Quickstart</a></font></td>
@@ -75,7 +75,7 @@ The following projects are officially supported by Rubrik
       <td align="center" width="33%"></td>
     </tr>
 </table>
-</div>
+
 
 
 ### Community Supported
