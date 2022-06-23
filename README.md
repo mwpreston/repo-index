@@ -25,8 +25,8 @@ The `README.md` of each repository should designate the project type.
 ### Rubrik Supported
 
 The following projects are officially supported by Rubrik
-
-  <table style="text-align:center">
+<div align="center">
+  <table>
     <tr><td colspan="3"><b>Rubrik Supported Software Development Kits</b></td></tr>
     <tr>
       <td align="center" width="33%"><img src="assets/powershell.png" width=150 height=150></td>
@@ -75,6 +75,7 @@ The following projects are officially supported by Rubrik
       <td align="center" width="33%"></td>
     </tr>
 </table>
+</div>
 
 
 ### Community Supported
