@@ -125,9 +125,9 @@ The following projects are community supported
     <td align="center" valign="top" width="33%">Rubrik CDM vRA/vRO Plugin</td>
   </tr>
   <tr>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/rubrik-provider-for-terraform" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/rubrik-provider-for-terraform/blob/master/docs/quick-start.md" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/rubrik-integration-for-servicenow" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/rubrik-integration-for-servicenow/blob/master/docs/quick-start.md" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/rubrik-plugin-for-vrealize" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/rubrik-plugin-for-vrealize/blob/master/docs/quick-start.md" target="_blank">Quickstart</a></td>
   </tr>
   <tr>
     <td align="center" width="33%"><img src="assets/splunk.png" width="150" height="150" ></td>
@@ -140,9 +140,9 @@ The following projects are community supported
     <td align="center" valign="top" width="33%">Rubrik CDM RedHat CloudForms integration</td>
   </tr>
   <tr>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://splunkbase.splunk.com/apps/#/search/rubrik/" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/rubrik-addon-for-splunk/blob/master/docs/quick-start.md" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://galaxy.ansible.com/rubrikinc" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/rubrik-modules-for-ansible/blob/master/rubrikinc/cdm/docs/README.md" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/rubrik-management-pack-for-cloudforms" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/rubrik-management-pack-for-cloudforms/blob/master/docs/quick-start.md" target="_blank">Quickstart</a></td>
   </tr>
   <tr>
     <td align="center" width="33%"><img src="assets/poshbot.png" width="150" height="150" ></td>
@@ -155,23 +155,23 @@ The following projects are community supported
     <td align="center" valign="top" width="33%">Rubrik CDM Prometheus integration</td>
   </tr>
   <tr>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/rubrik-module-for-poshbot" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/rubrik-module-for-poshbot/blob/master/docs/en-US/QUICKSTART.md" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/rubrik-content-pack-for-vrealize-loginsight" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/rubrik-content-pack-for-vrealize-loginsight/blob/master/docs/quick-start.md" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/rubrik-client-for-prometheus" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/rubrik-client-for-prometheus/blob/master/quickstart.md" target="_blank">Quickstart</a></td>
   </tr>
     <tr>
     <td align="center" width="33%"><img src="assets/errbot.png" width="150" height="150" ></td>
-    <td></td>
+    <td align="center" width="33%"><img src="assets/vcd.png" width="150" height="150" ></td>
     <td></td>
   </tr>
       <tr>
     <td align="center" valign="top" width="33%">Rubrik Plugin for Errbot</td>
-    <td align="center" valign="top" width="33%"></td>
+    <td align="center" valign="top" width="33%">Rubrik CDM vCD Plugin</td>
     <td align="center" valign="top" width="33%"></td>
   </tr>
   <tr>
-      <td align="center" width="33%"><a href="" target="_blank">Code</a> |  <a href="" target="_blank">Quickstart</a></td>
-      <td align="center" width="33%"></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/rubrik-plugin-for-errbot" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/rubrik-plugin-for-errbot/blob/master/docs/quick-start.md" target="_blank">Quickstart</a></td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/rubrik-extension-for-vcd/releases" target="_blank">Code</a> |  <a href="https://github.com/rubrikinc/rubrik-extension-for-vcd/blob/master/docs/quick-start.md" target="_blank">Quickstart</a></td>
       <td align="center" width="33%"></td>
   </tr>
   <tr><td colspan=3 align="center"><B><h2>Community Supported Use-Cases</h2></B></td></tr>
