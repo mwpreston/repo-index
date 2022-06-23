@@ -22,7 +22,7 @@ The `README.md` of each repository should designate the project type.
 
 ## Project Listing
 
-<style>
+<style type="text/css" rel="stylesheet">
   .logocell {
     align: center;
   }
