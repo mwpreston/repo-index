@@ -131,7 +131,7 @@ The following projects are community supported
       <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
   </tr>
   <tr>
-    <td align="center" width="33%"><img src="assets/poshbot.png" ></td>
+    <td align="center" width="33%"><img src="assets/poshbot.png" style="max-height:150px;" ></td>
     <td align="center" width="33%"><img src="assets/vrli.png" ></td>
     <td align="center" width="33%"><img src="assets/prometheus.png" ></td>
   </tr>
