@@ -42,7 +42,7 @@ The following projects are officially supported by Rubrik
       <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
       <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
     </tr>
-    <tr><td colspan=3 align="center"><B>Rubrik Supported Tooling Integrations</B></td></tr>
+    <tr><td colspan=3 align="center" valign="middle" ><B><h2>Rubrik Supported Tooling Integrations</h2></B></td></tr>
     <tr>
       <td align="center" width="33%"><img src="assets/terraform.png" width="150" height="150" ></td>
       <td align="center" width="33%"><img src="assets/snow.png" width="150" height="150" ></td>
@@ -82,7 +82,7 @@ The following projects are officially supported by Rubrik
 The following projects are community supported
 
 <table align="center">
-  <tr><td colspan=3 align="center" ><B>Community Supported Software Development Kits</B></td></tr>
+  <tr><td colspan=3 align="center" ><B><h2>Community Supported Software Development Kits</h2></B></td></tr>
   <tr>
     <td align="center" width="33%"><img src="assets/powershell.png" width="150" height="150" ></td>
     <td align="center" width="33%"><img src="assets/python.png" width="150" height="150" ><BR></td>
@@ -98,7 +98,7 @@ The following projects are community supported
       <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
       <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
   </tr>
-      <tr><td colspan=3 align="center"><B>Community Supported Tooling Integrations</B></td></tr>
+      <tr><td colspan=3 align="center"><B><h2>Community Supported Tooling Integrations</h2></B></td></tr>
   <tr>
     <td align="center" width="33%"><img src="assets/terraform.png" width="150" height="150" ></td>
     <td align="center" width="33%"><img src="assets/snow.png" width="150" height="150" ></td>
@@ -159,7 +159,7 @@ The following projects are community supported
       <td align="center" width="33%"></td>
       <td align="center" width="33%"></td>
   </tr>
-  <tr><td colspan=3 align="center"><B>Community Supported Use-Cases</B></td></tr>
+  <tr><td colspan=3 align="center"><B><h2>Community Supported Use-Cases</h2></B></td></tr>
   <tr>
     <td align="center" width="33%"><img src="assets/slack.png" width="150" height="150" ></td>
     <td align="center" width="33%"><img src="assets/vra.png" width="150" height="150" ></td>
