@@ -14,11 +14,10 @@ Rubrik has three different types of projects centering around API consumption:
 ## Support
 Depending on the SDK, Integration, or Use Case one of the following support models are applied:
 
-* **Rubrik Supported** - a project that is owned and maintained by Rubrik while accepting contributions from the community
-* **Community Supported** - a project that is owned and maintained by the Build community
-* **Partner Supported** - a project that is owned and maintained by a Partner and Rubrik while accepting contributions from the community
+* **Rubrik Supported** - a project that is owned and maintained by Rubrik while accepting contributions from the community. Rubrik Support can be obtained for projects falling under this category.
+* **Community Supported** - a project that is owned and maintained by the community. Projects belonging to this category are considered best effort support, provided through the Rubrik Support forum and GitHub.
 
-The `README.md` of each repository should designate the project type.
+The `README.md` of each repository should designate the project type as well as the implemented support model.
 
 ## Project Listing
 
@@ -27,7 +26,7 @@ The `README.md` of each repository should designate the project type.
 The following projects are officially supported by Rubrik
 
   <table>
-    <tr><td align="center" colspan="3"><b>Rubrik Supported Software Development Kits</b></td></tr>
+    <tr><td align="center" colspan="3"><b><h1>Rubrik Supported Software Development Kits</h1></b></td></tr>
     <tr>
       <td align="center" width="33%"><img src="assets/powershell.png" width="150" height="150"></td>
       <td align="center" width="33%"><img src="assets/python.png" width="150" height="150"></td>
