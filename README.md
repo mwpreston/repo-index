@@ -31,7 +31,7 @@ The following projects are officially supported by Rubrik
     <tr>
       <td align="center" width="33%"><img src="assets/powershell.png" width=150 height=150></td>
       <td align="center" width="33%"><img src="assets/python.png" width=150 height=150></td>
-      <td align="center" width="33%"><img src="assets/go.png" width=150 height=150></td>
+      <td align="center" width="33%"><img src="assets/go.png"></td>
     </tr>
     <tr>
       <td align="center" valign="top" width="33%">Rubrik Security Cloud Powershell SDK</td>
