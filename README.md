@@ -38,9 +38,9 @@ The following projects are officially supported by Rubrik
       <td align="center" valign="top" width="33%">Rubrik Security Cloud GO SDK</td>
     </tr>
     <tr>
-      <td align="center" width="33%"><font size="8"><a href="">Code</a> | <a href="">Documentation</a> |   <a href="">Quickstart</a></font></td>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><font size="8"><a href="">Code</a> |    <a href="">Quickstart</a></font></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
     </tr>
     <tr><td colspan=3 align="center" valign="middle" ><B><h2>Rubrik Supported Tooling Integrations</h2></B></td></tr>
     <tr>
@@ -54,9 +54,9 @@ The following projects are officially supported by Rubrik
       <td align="center" valign="top" width="33%">Rubrik Security Cloud vRA/vRO Plugin</td>
     </tr>
     <tr>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
     </tr>
     <tr>
       <td align="center" width="33%"><img src="assets/splunk.png" width="150" height="150" ></td>
@@ -69,8 +69,8 @@ The following projects are officially supported by Rubrik
       <td align="center" width="33%"></td>
     </tr>
     <tr>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
       <td align="center" width="33%"></td>
     </tr>
 </table>
@@ -94,9 +94,9 @@ The following projects are community supported
     <td align="center" valign="top" width="33%">Rubrik CDM GO SDK</td>
   </tr>
   <tr>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
   </tr>
       <tr><td colspan=3 align="center"><B><h2>Community Supported Tooling Integrations</h2></B></td></tr>
   <tr>
@@ -110,9 +110,9 @@ The following projects are community supported
     <td align="center" valign="top" width="33%">Rubrik CDM vRA/vRO Plugin</td>
   </tr>
   <tr>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
   </tr>
   <tr>
     <td align="center" width="33%"><img src="assets/splunk.png" width="150" height="150" ></td>
@@ -125,9 +125,9 @@ The following projects are community supported
     <td align="center" valign="top" width="33%">Rubrik CDM RedHat CloudForms integration</td>
   </tr>
   <tr>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
   </tr>
   <tr>
     <td align="center" width="33%"><img src="assets/poshbot.png" width="150" height="150" ></td>
@@ -140,9 +140,9 @@ The following projects are community supported
     <td align="center" valign="top" width="33%">Rubrik CDM Prometheus integration</td>
   </tr>
   <tr>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
   </tr>
     <tr>
     <td align="center" width="33%"><img src="assets/errbot.png" width="150" height="150" ></td>
@@ -155,7 +155,7 @@ The following projects are community supported
     <td align="center" valign="top" width="33%"></td>
   </tr>
   <tr>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
       <td align="center" width="33%"></td>
       <td align="center" width="33%"></td>
   </tr>
@@ -171,9 +171,9 @@ The following projects are community supported
     <td align="center" valign="top" width="33%">Backup Validation with PowerShell</td>
   </tr>
   <tr>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
   </tr>
   <tr>
     <td align="center" width="33%"><img src="assets/roxie.png" width="150" height="150" ></td>
@@ -186,9 +186,9 @@ The following projects are community supported
     <td align="center" valign="top" width="33%">Using AWS CloudFormation to Configure CloudOut to S3</td>
   </tr>
   <tr>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
   </tr>
   <tr>
     <td align="center" width="33%"><img src="assets/cloudformation.png" width="150" height="150" ></td>
@@ -201,9 +201,9 @@ The following projects are community supported
     <td align="center" valign="top" width="33%">AWS Secrets Manager Key Rotation</td>
   </tr>
   <tr>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
   </tr>
   <tr>
     <td align="center" width="33%"><img src="assets/arm.png" width="150" height="150" ></td>
@@ -216,9 +216,9 @@ The following projects are community supported
     <td align="center" valign="top" width="33%">Use Terraform to Configure CloudOn to AWS</td>
   </tr>
   <tr>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
   </tr>
   <tr>
     <td align="center" width="33%"><img src="assets/ec2.png" width="150" height="150" ></td>
@@ -231,9 +231,9 @@ The following projects are community supported
     <td align="center" valign="top" width="33%">Use AWS CloudFormation to Configure Cloud-Native Protection</td>
   </tr>
   <tr>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
   </tr>
   <tr>
     <td align="center" width="33%"><img src="assets/ansible.png" width="150" height="150" ></td>
@@ -246,9 +246,9 @@ The following projects are community supported
     <td align="center" valign="top" width="33%">Use Ansible to Install RBS</td>
   </tr>
   <tr>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
   </tr>
     <tr>
     <td align="center" width="33%"><img src="assets/ansible.png" width="150" height="150" ></td>
@@ -261,9 +261,9 @@ The following projects are community supported
     <td align="center" valign="top" width="33%">Rubrik CDM As Built Report</td>
   </tr>
   <tr>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
-      <td align="center" width="33%"><a href="">Code</a> | <a href="">Documentation</a> | <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
+      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
   </tr>
 </table>
       
