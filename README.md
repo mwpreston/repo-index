@@ -29,8 +29,8 @@ The following projects are officially supported by Rubrik
   <table>
     <tr><td align="center" colspan="3"><b>Rubrik Supported Software Development Kits</b></td></tr>
     <tr>
-      <td align="center" width="33%"><img src="assets/powershell.png" width=150 height=150></td>
-      <td align="center" width="33%"><img src="assets/python.png" width=150 height=150></td>
+      <td align="center" width="33%"><img src="assets/powershell.png"></td>
+      <td align="center" width="33%"><img src="assets/python.png"></td>
       <td align="center" width="33%"><img src="assets/go.png"></td>
     </tr>
     <tr>
