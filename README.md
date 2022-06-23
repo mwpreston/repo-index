@@ -38,9 +38,9 @@ The following projects are officially supported by Rubrik
       <td align="center" valign="top" width="33%">Rubrik Security Cloud GO SDK</td>
     </tr>
     <tr>
-      <td align="center" width="33%"><font size="8"><a href="">Code</a> |    <a href="">Quickstart</a></font></td>
-      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
-      <td align="center" width="33%"><a href="">Code</a> |  <a href="">Quickstart</a></td>
+      <td align="center" width="33%">Coming Soon</td>
+      <td align="center" width="33%"><a href="https://github.com/rubrikinc/rubrik-polaris-sdk-for-python">Code</a> |  <a href="https://github.com/rubrikinc/rubrik-polaris-sdk-for-python/blob/beta/sample/polaris_client.py">Quickstart</a></td>
+      <td align="center" width="33%">Coming Soon</td>
     </tr>
     <tr><td colspan=3 align="center" valign="middle" ><B><h2>Rubrik Supported Tooling Integrations</h2></B></td></tr>
     <tr>
