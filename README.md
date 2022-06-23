@@ -30,7 +30,7 @@ The `README.md` of each repository should designate the project type.
 ### Rubrik Supported
 
 The following projects are officially supported by Rubrik
-
+<div class="logocell">
   <table>
     <tr><td class="logocell" colspan="3"><b>Rubrik Supported Software Development Kits</b></td></tr>
     <tr>
@@ -80,6 +80,7 @@ The following projects are officially supported by Rubrik
       <td align="center" width="33%"></td>
     </tr>
 </table>
+</div>
 
 ### Community Supported
 
